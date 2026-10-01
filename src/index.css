@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: fantasy;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.products-list {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+button {
+  background-color: antiquewhite;
+  border: none;
+  border-radius: 8px;
+  padding: 1rem 3rem;
+}
